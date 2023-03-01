@@ -174,16 +174,3 @@
     font-style: italic;
     font-display: swap;
 }
-
-/* Language */
-:lang(Arab),
-:lang(ar),
-:lang(fa),
-:lang(mzn),
-:lang(pa),
-:lang(ps),
-:lang(ug),
-:lang(ur),
-:lang(uz) {
-    font-family: 'HarmonyOS Sans Naskh Arabic', sans-serif;
-}

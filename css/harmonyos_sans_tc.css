@@ -92,15 +92,3 @@
     font-style: normal;
     font-display: swap;
 }
-
-/* Language */
-:lang(Hant),
-:lang(zh),
-:lang(CHT),
-:lang(zh-HK),
-:lang(zh-MO),
-:lang(zh-TW),
-:lang(Jpan),
-:lang(ja) {
-    font-family: 'HarmonyOS Sans TC', sans-serif;
-}
